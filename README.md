@@ -1,3 +1,5 @@
+This project was made by: Katherine Berardinelli, Kaylin Jimenez, Miguel Hernandez
+
 YouTube Demo: https://youtu.be/SY9i9VHrByQ
 
 We had never used an AI tool like Windsurf or Cursor that directly manages project files and code. It was a very useful and enriching experience. Some members of our group were already familiar with JavaScript and React, so we could clearly see how fast and efficient AI can be when building applications. It helped us generate components, structure the project, and even debug some parts with much less effort than coding everything manually.
